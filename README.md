@@ -29,6 +29,10 @@
   <a href="https://jishan37.github.io/new/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+
+     <a href="https://www.linkedin.com/in/md-jishan-ahmad-shipu-54767a220/" target="_blank">
+    <img src="<img alt="Static Badge" src="https://img.shields.io/badge/facebook?style=for-the-badge&logo=facebook&logoColor=white&labelColor=blue" target="_blank" />
+  </a>
 </div>
 
  <hr/>
@@ -72,6 +76,6 @@
 
 </div>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+You!+🙌;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+🙌;" />
 </h1>
 <br/>
