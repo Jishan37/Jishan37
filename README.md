@@ -20,7 +20,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mdjas005@gmail.com">
+  <a href="mailto:mdjas005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/md-jishan-ahmad-shipu-54767a220/" target="_blank">
