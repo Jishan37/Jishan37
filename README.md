@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Jishan37.Jishan37" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jishan37.jishan37" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md.+Jishan+Ahmad+Shipu!;" />
