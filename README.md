@@ -15,7 +15,7 @@
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/jishan37/jishan37/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **full stack** originally comes from the world of restaurants, where it refers to chefs who are proficient in preparing both savory dishes and desserts.
 
  </div>
  
