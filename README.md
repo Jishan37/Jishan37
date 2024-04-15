@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 <a href="https://www.linkedin.com/in/md-jishan-ahmad-shipu-54767a220/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img alt="Static Badge" src="https://img.shields.io/badge/facebook?style=for-the-badge&logo=facebook&logoColor=white&labelColor=blue" target="_blank" />
   </a>
     
   <a href="https://jishan37.github.io/new/" target="_blank">
